@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl: '',
-  mksUrl: ''
+  apiUrl: 'https://topomojo-api.crucible.io/api',
+  mksUrl: 'https://topomojo.crucible.io/mks/'
 };
